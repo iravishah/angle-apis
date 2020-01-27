@@ -1,0 +1,66 @@
+{"uid":"631d1fd0-40db-11ea-ac94-a3ddd48f7e5a","level":"info","message":"db is: expressapi"}
+{"uid":"631d6df0-40db-11ea-ac94-a3ddd48f7e5a","level":"info","message":"replicas: localhost:27017"}
+{"uid":"631f90d0-40db-11ea-ac94-a3ddd48f7e5a","level":"info","message":"api server started on port 8080"}
+{"uid":"6325d260-40db-11ea-ac94-a3ddd48f7e5a","level":"info","message":"mongo db connected!"}
+{"uid":"6325f970-40db-11ea-ac94-a3ddd48f7e5a","level":"info","message":"mongo db connection opened!"}
+{"uid":"e757b890-40dc-11ea-a83e-cd08f4a2cfc3","level":"info","message":"db is: expressapi"}
+{"uid":"e75806b0-40dc-11ea-a83e-cd08f4a2cfc3","level":"info","message":"replicas: localhost:27017"}
+{"uid":"e75a77b0-40dc-11ea-a83e-cd08f4a2cfc3","level":"info","message":"api server started on port 8080"}
+{"uid":"e75ebd70-40dc-11ea-a83e-cd08f4a2cfc3","level":"info","message":"mongo db connected!"}
+{"uid":"e75ee480-40dc-11ea-a83e-cd08f4a2cfc3","level":"info","message":"mongo db connection opened!"}
+{"uid":"204a1ee0-40dd-11ea-a83e-cd08f4a2cfc3","level":"info","message":"error while matching admin key :: undefined"}
+{"uid":"3da009f0-40dd-11ea-abf3-65dcff5a5add","level":"info","message":"db is: expressapi"}
+{"uid":"3da05810-40dd-11ea-abf3-65dcff5a5add","level":"info","message":"replicas: localhost:27017"}
+{"uid":"3da2a200-40dd-11ea-abf3-65dcff5a5add","level":"info","message":"api server started on port 8080"}
+{"uid":"3da5fd60-40dd-11ea-abf3-65dcff5a5add","level":"info","message":"mongo db connected!"}
+{"uid":"3da62470-40dd-11ea-abf3-65dcff5a5add","level":"info","message":"mongo db connection opened!"}
+{"uid":"8c39cdd0-40dd-11ea-8d96-3959278e8e04","level":"info","message":"db is: expressapi"}
+{"uid":"8c3a4300-40dd-11ea-8d96-3959278e8e04","level":"info","message":"replicas: localhost:27017"}
+{"uid":"8c3cb400-40dd-11ea-8d96-3959278e8e04","level":"info","message":"api server started on port 8080"}
+{"uid":"8c3fe850-40dd-11ea-8d96-3959278e8e04","level":"info","message":"mongo db connected!"}
+{"uid":"8c400f60-40dd-11ea-8d96-3959278e8e04","level":"info","message":"mongo db connection opened!"}
+{"uid":"992e4d40-40dd-11ea-b673-cf18783cd8a9","level":"info","message":"db is: expressapi"}
+{"uid":"992ec270-40dd-11ea-b673-cf18783cd8a9","level":"info","message":"replicas: localhost:27017"}
+{"uid":"9931a8a0-40dd-11ea-b673-cf18783cd8a9","level":"info","message":"api server started on port 8080"}
+{"uid":"9935c750-40dd-11ea-b673-cf18783cd8a9","level":"info","message":"mongo db connected!"}
+{"uid":"9935ee60-40dd-11ea-b673-cf18783cd8a9","level":"info","message":"mongo db connection opened!"}
+{"uid":"a86b0f00-40dd-11ea-ada2-79a0ec6c6654","level":"info","message":"db is: expressapi"}
+{"uid":"a86b8430-40dd-11ea-ada2-79a0ec6c6654","level":"info","message":"replicas: localhost:27017"}
+{"uid":"a86e6a60-40dd-11ea-ada2-79a0ec6c6654","level":"info","message":"api server started on port 8080"}
+{"uid":"a871ecd0-40dd-11ea-ada2-79a0ec6c6654","level":"info","message":"mongo db connected!"}
+{"uid":"a87213e0-40dd-11ea-ada2-79a0ec6c6654","level":"info","message":"mongo db connection opened!"}
+{"uid":"9464fe00-40e0-11ea-8f73-cf0d58a5570d","level":"info","message":"db is: expressapi"}
+{"uid":"94654c20-40e0-11ea-8f73-cf0d58a5570d","level":"info","message":"replicas: localhost:27017"}
+{"uid":"94683250-40e0-11ea-8f73-cf0d58a5570d","level":"info","message":"api server started on port 8080"}
+{"uid":"946c5100-40e0-11ea-8f73-cf0d58a5570d","level":"info","message":"mongo db connected!"}
+{"uid":"946c7810-40e0-11ea-8f73-cf0d58a5570d","level":"info","message":"mongo db connection opened!"}
+{"uid":"bb7d6270-40e0-11ea-add0-95879f51e73d","level":"info","message":"db is: expressapi"}
+{"uid":"bb7dfeb0-40e0-11ea-add0-95879f51e73d","level":"info","message":"replicas: localhost:27017"}
+{"uid":"bb80e4e0-40e0-11ea-add0-95879f51e73d","level":"info","message":"api server started on port 8080"}
+{"uid":"bb846750-40e0-11ea-add0-95879f51e73d","level":"info","message":"mongo db connected!"}
+{"uid":"bb848e60-40e0-11ea-add0-95879f51e73d","level":"info","message":"mongo db connection opened!"}
+{"uid":"d53f5150-40e0-11ea-b030-5d4785fcc1a4","level":"info","message":"db is: expressapi"}
+{"uid":"d53f9f70-40e0-11ea-b030-5d4785fcc1a4","level":"info","message":"replicas: localhost:27017"}
+{"uid":"d541c250-40e0-11ea-b030-5d4785fcc1a4","level":"info","message":"api server started on port 8080"}
+{"uid":"d54592e0-40e0-11ea-b030-5d4785fcc1a4","level":"info","message":"mongo db connected!"}
+{"uid":"d545b9f0-40e0-11ea-b030-5d4785fcc1a4","level":"info","message":"mongo db connection opened!"}
+{"uid":"0fe1b190-40e1-11ea-a70c-0b024fa8296d","level":"info","message":"db is: expressapi"}
+{"uid":"0fe24dd0-40e1-11ea-a70c-0b024fa8296d","level":"info","message":"replicas: localhost:27017"}
+{"uid":"0fe4bed0-40e1-11ea-a70c-0b024fa8296d","level":"info","message":"api server started on port 8080"}
+{"uid":"1068e2f0-40e1-11ea-a70c-0b024fa8296d","level":"info","message":"mongo db connected!"}
+{"uid":"10690a00-40e1-11ea-a70c-0b024fa8296d","level":"info","message":"mongo db connection opened!"}
+{"uid":"2a9c7f60-40e1-11ea-9fe8-cf8b9e19a044","level":"info","message":"db is: expressapi"}
+{"uid":"2a9cf490-40e1-11ea-9fe8-cf8b9e19a044","level":"info","message":"replicas: localhost:27017"}
+{"uid":"2a9f3e80-40e1-11ea-9fe8-cf8b9e19a044","level":"info","message":"api server started on port 8080"}
+{"uid":"2aa3ab50-40e1-11ea-9fe8-cf8b9e19a044","level":"info","message":"mongo db connected!"}
+{"uid":"2aa3d260-40e1-11ea-9fe8-cf8b9e19a044","level":"info","message":"mongo db connection opened!"}
+{"uid":"45c689c0-40e1-11ea-9355-81f0f0d93f84","level":"info","message":"db is: expressapi"}
+{"uid":"45c6fef0-40e1-11ea-9355-81f0f0d93f84","level":"info","message":"replicas: localhost:27017"}
+{"uid":"45c99700-40e1-11ea-9355-81f0f0d93f84","level":"info","message":"api server started on port 8080"}
+{"uid":"45cddcc0-40e1-11ea-9355-81f0f0d93f84","level":"info","message":"mongo db connected!"}
+{"uid":"45cddcc1-40e1-11ea-9355-81f0f0d93f84","level":"info","message":"mongo db connection opened!"}
+{"uid":"66a9e150-40e1-11ea-8277-e1e23e379ba9","level":"info","message":"db is: expressapi"}
+{"uid":"66aa2f70-40e1-11ea-8277-e1e23e379ba9","level":"info","message":"replicas: localhost:27017"}
+{"uid":"66acc780-40e1-11ea-8277-e1e23e379ba9","level":"info","message":"api server started on port 8080"}
+{"uid":"66b09810-40e1-11ea-8277-e1e23e379ba9","level":"info","message":"mongo db connected!"}
+{"uid":"66b09811-40e1-11ea-8277-e1e23e379ba9","level":"info","message":"mongo db connection opened!"}
